@@ -3,10 +3,10 @@ layout: post
 title: "Posteo de prueba"
 ---
 
+Esto es una prueba
+
+
 # Título 1 (h1)
-
-jajajajajaja
-
 
 ## Título 2 (h2)
 ### Título 3 (h3)
